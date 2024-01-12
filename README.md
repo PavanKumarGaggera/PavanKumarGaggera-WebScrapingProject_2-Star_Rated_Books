@@ -1,4 +1,3 @@
-# WebScrapingProject_2-Star_Rated_Books
 
 # Web Scraping Project: Extracting Titles of 2-Star Rated Books
 
